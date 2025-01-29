@@ -7,7 +7,7 @@
 - <b>R</b>
   - [Regression Analysis](https://github.com/URL)
 - <b>Power BI</b>
-  - [HR Dashboard](https://github.com/URL) <b><i>(Potentially NSFW)</b></i>
+  - [HR Dashboard](https://github.com/AnnieTao0719/HR-Dashboard/tree/main) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
   - [NLP](https://github.com/URL)
 
